@@ -1,14 +1,43 @@
-<img width="778" height="362" alt="image" src="https://github.com/user-attachments/assets/292f7550-a5f2-4c14-8185-0a9d1feb3ca2" />
-<img width="890" height="616" alt="image" src="https://github.com/user-attachments/assets/9c2f6067-2542-4138-b3d1-5650f3adb5ef" />
-<img width="907" height="771" alt="image" src="https://github.com/user-attachments/assets/fcfbc3b4-35be-4ebb-ab42-9ac7865f079c" />
-<img width="865" height="553" alt="image" src="https://github.com/user-attachments/assets/b73a0362-39e9-47e4-9650-dfcee3c5f689" />
-<img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/7b291257-af6c-47ce-b939-3631ea52bbf4" />
-<img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
-<img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
+## EC1419-Electronics Circuits-Lab
+**EXP NO:1**
+# <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
+
+<img width="857" height="310" alt="image" src="https://github.com/user-attachments/assets/3081429d-e3e1-492c-bbcd-708b36faee25" />
+
+## Design
+<img width="878" height="209" alt="image" src="https://github.com/user-attachments/assets/8c8022b5-cbc7-4450-8a77-077c14ade73d" />
+<img width="688" height="520" alt="image" src="https://github.com/user-attachments/assets/6f9a4b27-9f52-4be9-a6b8-3bb90fb54852" />
+<img width="708" height="579" alt="image" src="https://github.com/user-attachments/assets/25008f75-baa1-4e8a-a2cf-578478dc4a93" />
+<img width="799" height="568" alt="image" src="https://github.com/user-attachments/assets/a1e952fe-def7-443e-a84b-c501153c72e3" />
+<img width="831" height="356" alt="image" src="https://github.com/user-attachments/assets/867e75f5-43f2-408f-b6fb-ed6b909db367" />
 
 
-# Tabulation with readings
+## CIRCUIT DIAGRAM
 
-## Semilog plotted Graph
+<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
-<img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+## MODEL GRAPH
+
+<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
+<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
+
+<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
+
+### Graph
+
+# INPUT 
+<img width="1911" height="494" alt="image" src="https://github.com/user-attachments/assets/984fb3b5-71c2-42ff-b6cf-49a7ec02e082" />
+
+# OUTPUT
+
+![WhatsApp Image 2025-11-14 at 13 16 14_7d7119b6](https://github.com/user-attachments/assets/8381eae1-240f-4ede-9da4-3e9c098cc0ac)
+
+
+
+## **Result**
+<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+
+**VOLTAGE GAIN = −247 (≈47.8 dB)** 
+
+**BANDWIDTH = 1.2 MHz**
